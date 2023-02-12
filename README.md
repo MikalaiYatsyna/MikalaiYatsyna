@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   - [x] [EKS Cluster](https://github.com/MikalaiYatsyna/terraform-aws-eks) (incl [Ingress controller](https://github.com/MikalaiYatsyna/terraform-aws-eks-ingress) and [NLB](https://github.com/MikalaiYatsyna/terraform-aws-eks-lb))
   - [x] [Consul cluster](https://github.com/MikalaiYatsyna/terraform-aws-consul) deployed to EKS via HELM 
   - [ ] Vault cluster deployed to EKS via HELM 
-* Tools
+* 🛠️ Tools
 <div align="left">
   	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></code>
   	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform" /></code>
