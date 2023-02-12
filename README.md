@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
 * 🔭 I’m currently working on AWS based Terraform Cloud stack for provisioning 
   - [x] [Route 53 zone and ACM Certificate](https://github.com/MikalaiYatsyna/terraform-aws-infra-core)
   - [x] [VPC](https://github.com/MikalaiYatsyna/terraform-aws-vpc)
