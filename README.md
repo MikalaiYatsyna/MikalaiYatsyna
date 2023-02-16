@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 🔭 I’m currently working on <code><img height="12" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></code>AWS based Terraform Cloud Project for provisioning 
-  - [x] [Module to provision core AWS resources](https://github.com/MikalaiYatsyna/terraform-aws-infra-core)
+  - [x] [Module to provision shared AWS resources](https://github.com/MikalaiYatsyna/terraform-aws-infra-core)
  	  - [x] <code><img height="12" src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons_01312022/Arch_Networking-Content-Delivery/32/Arch_Amazon-Route-53_32.svg" alt="route53" title="route53" /></code>Route 53 zone
 	  - [x] <code><img height="12" src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons_01312022/Arch_Security-Identity-Compliance/32/Arch_AWS-Certificate-Manager_32.svg" alt="ACM" title="ACM" /></code>ACM Certificate
 	  - [ ] <code><img height="12" src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons_01312022/Arch_Compute/32/Arch_Amazon-Elastic-Container-Registry_32.svg" alt="ECR" title="ECR" /></code>ECR Registry
