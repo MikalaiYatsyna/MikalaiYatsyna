@@ -2,7 +2,7 @@
 
 * 🔭 I’m currently working on <code><img height="12" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></code>AWS  Terraform Project for provisioning
     - [x] <code><img height="12" src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons_01312022/Arch_Storage/32/Arch_Amazon-Simple-Storage-Service_32.svg" alt="S3" title="S3" /></code>[Module for provisioning S3 bucket for terraform state](https://github.com/MikalaiYatsyna/terraform-aws-tf-state)
-    - [x] [Terragrunt project for creation Stack resources (dev/test/prod)](https://github.com/MikalaiYatsyna/terragrunt-stack)
+    - [x] [Terragrunt project for creation Core Infra resources](https://github.com/MikalaiYatsyna/terragrunt-stack)
         - [x] <code><img height="12" src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons_01312022/Arch_Networking-Content-Delivery/32/Arch_Amazon-Route-53_32.svg" alt="route53" title="route53" /></code>[Route 53 zone](https://github.com/MikalaiYatsyna/terraform-aws-route53)
         - [x] <code><img height="12" src="https://raw.githubusercontent.com/github/explore/db5984103161a6f28a99b69bd609873d83a21d75/topics/cloudflare/cloudflare.png" alt="cloudflare_dns" title="route53" /></code>[CloudFlare DNS delegation](https://github.com/MikalaiYatsyna/terraform-cloudflare-dns-records)
         - [x] <code><img height="12" src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons_01312022/Arch_Networking-Content-Delivery/32/Arch_Amazon-Virtual-Private-Cloud_32.svg" alt="VPC" title="VPC" /></code>[VPC](https://github.com/MikalaiYatsyna/terraform-aws-vpc)
@@ -18,4 +18,5 @@
                - [x] <code><img height="12" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes" /></code> Vault auto-init using Kubernetes Job ([Image repo](https://github.com/MikalaiYatsyna/vault-init-image))
                - [x] <code><img height="12" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes" /></code> [Vault K8S Auth](https://github.com/MikalaiYatsyna/terraform-vault-k8s-auth)
                - [x] <code><img height="12" src="https://user-images.githubusercontent.com/25181517/183345124-0948a5e0-5326-495f-824f-b99d3aee5467.png" alt="Vault" title="Vault" /></code>[Vault Secret Backends (KV, Database, PKI)](https://github.com/MikalaiYatsyna/terraform-vault-secret-backends)
+          - [ ] <code><img height="12" src="" alt="ArgoCD" title="ArgoCD" /></code>[Argo CD]()
                 
