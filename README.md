@@ -18,5 +18,5 @@
                - [x] <code><img height="12" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes" /></code> Vault auto-init using Kubernetes Job ([Image repo](https://github.com/MikalaiYatsyna/vault-init-image))
                - [x] <code><img height="12" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes" /></code> [Vault K8S Auth](https://github.com/MikalaiYatsyna/terraform-vault-k8s-auth)
                - [x] <code><img height="12" src="https://user-images.githubusercontent.com/25181517/183345124-0948a5e0-5326-495f-824f-b99d3aee5467.png" alt="Vault" title="Vault" /></code>[Vault Secret Backends (KV, Database, PKI)](https://github.com/MikalaiYatsyna/terraform-vault-secret-backends)
-          - [ ] <code><img height="12" src="" alt="ArgoCD" title="ArgoCD" /></code>[Argo CD]()
+          - [x] <code><img height="12" src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" alt="ArgoCD" title="ArgoCD" /></code>[Argo CD]()
                 
